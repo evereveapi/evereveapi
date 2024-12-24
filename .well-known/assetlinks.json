@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.backgammongalaxy.app",
+      "sha256_cert_fingerprints": [
+        "ea:49:a2:f0:ec:05:9e:7c:48:09:0f:11:7c:e5:28:14:4b:b6:94:20:15:a8:a0:c1:b7:3e:7d:a2:d2:1c:a3:fa"
+      ]
+    }
+  }
+]
